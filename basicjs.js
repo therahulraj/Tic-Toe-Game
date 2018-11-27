@@ -1,3 +1,12 @@
+
+// Tic-Toe-Game
+// By - Rahul Raj
+// This is a One Player Tic-Toe Game.
+// Languages used - HTML, CSS(Grid, Flexbox), JavaScript(vanilla).
+// This Game is built using only JavaScript.
+// To Run this program - Just clone these files on your computer and run with your browser on localhost.
+
+
 const cards = document.querySelectorAll(".card");
 const possibilitiesToWin = [[1,2,3],[4,5,6],[7,8,9],[1,5,9],[3,5,7],[1,4,7],[2,5,8],[3,6,9]];
 //const possibilitiesForBlock = [[1,2],[2,3],[1,3],[4,5],[5,6],[4,6],[7,8],[8,9],[7,9],[1,4],[4,7],[1,7],[2,5],[5,8],[2,8],[3,6],[6,9],[3,9],[1,5],[5,9],[1,9],[3,5],[5,7],[3,7]];
